@@ -20,7 +20,9 @@ ribbon:
 
 spring:
   rabbitmq:
-    host: rabbitmq
+    host: 172.20.222.100
+    username: root
+    password: Vivoautotest
   sleuth:
     sampler:
       percentage: 1
